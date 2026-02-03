@@ -14,4 +14,11 @@ dependencies:
 repo: https://github.com/lucasgb2/sabium
 support: 
 port: 8888
-submitter: Lucas Garcia
+support: https://t.me/agoradiscussion
+path: /admin/
+deterministicPassword: true
+defaultUsername: umbrel
+torOnly: false
+submitter: Jonathan Zernik
+submission: https://github.com/getumbrel/umbrel/pull/1282
+releaseNotes: ""
