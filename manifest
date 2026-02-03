@@ -1,0 +1,17 @@
+manifestVersion: 1
+id: sabium-lucas
+category: network
+name: Teste de Aplicação Sabium
+version: "0.1.2"
+tagline: sem tagline
+description: >-
+  Está é uma aplicação para testar o nextplataform
+
+developer: Lucas Garcia Batista
+website: http://www.sabium.com.br
+dependencies:
+  - lightning
+repo: https://github.com/lucasgb2/sabium
+support: 
+port: 8888
+submitter: Lucas Garcia
