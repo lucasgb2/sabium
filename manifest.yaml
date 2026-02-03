@@ -12,10 +12,9 @@ website: http://www.sabium.com.br
 dependencies:
   - lightning
 repo: https://github.com/lucasgb2/sabium
-support: 
 port: 8888
 support: https://t.me/agoradiscussion
-path: /admin/
+path: /
 deterministicPassword: true
 defaultUsername: umbrel
 torOnly: false
