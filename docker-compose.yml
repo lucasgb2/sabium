@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  app:
+    image: busybox
+    container_name: busybox-test
+    command: sh -c "while true; do echo 'rodando'; sleep 5; done"
